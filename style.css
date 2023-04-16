@@ -36,7 +36,7 @@ canvas#canvas {
   width: 100%;
   height: 100%;
 }
-width: 146%;
+/* width: 146%; */
 
 div#beach {
   background-image: url(https://dl.dropbox.com/s/oe0oce2udq44bj5/beachsil2.png);
