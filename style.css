@@ -496,4 +496,8 @@ div#sea {
     height: 100%;
     width: 167%;
   }
+  body {
+    overflow: hidden;
+    height: 100vh;
+  }
 }
