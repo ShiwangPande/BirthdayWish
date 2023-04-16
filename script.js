@@ -311,7 +311,11 @@ function reveal() {
   document.querySelector('#video').appendChild(ifrm);
 }
 
+function playaudio() {
+  var audio = document.getElementById("audio");
+  audio.volume = 0.08;
+  audio.play();
+}
+playaudio("1 copy.mp3");
+// var vid = document.getElementById("audio");
 
-var vid = document.getElementById("audio");
-vid.volume = 0.08;
-vid.play();
