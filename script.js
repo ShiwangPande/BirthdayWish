@@ -314,3 +314,4 @@ function reveal() {
 
 var vid = document.getElementById("audio");
 vid.volume = 0.08;
+vid.play();
